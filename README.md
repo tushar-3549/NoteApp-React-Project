@@ -1,3 +1,10 @@
+# User Interface 
+![image](https://github.com/tushar-3549/NoteApp-React-Project/assets/99356217/c33d1f1e-1967-4499-9b76-0e5bdb77d6e3)
+
+![image](https://github.com/tushar-3549/NoteApp-React-Project/assets/99356217/a3a604a6-565a-47a1-9590-e99a9543246f)
+
+![image](https://github.com/tushar-3549/NoteApp-React-Project/assets/99356217/63b1581a-6181-4af0-9eb8-3d7f74345bf9)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
